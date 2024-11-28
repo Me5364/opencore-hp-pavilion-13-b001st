@@ -238,23 +238,23 @@
 				<data>AAAAAA==</data>
 			</dict>
 		</array>
-		<key>Quirks</key>
-		<dict>
-			<key>EnableForAll</key>
-			<false/>
-			<key>FadtEnableReset</key>
-			<true/>
-			<key>NormalizeHeaders</key>
-			<false/>
-			<key>RebaseRegions</key>
-			<true/>
-			<key>ResetHwSig</key>
-			<false/>
-			<key>ResetLogoStatus</key>
-			<true/>
-			<key>SyncTableIds</key>
-			<false/>
-		</dict>
+	</dict>
+	<key>Quirks</key>
+	<dict>
+		<key>EnableForAll</key>
+		<false/>
+		<key>FadtEnableReset</key>
+		<true/>
+		<key>NormalizeHeaders</key>
+		<false/>
+		<key>RebaseRegions</key>
+		<true/>
+		<key>ResetHwSig</key>
+		<false/>
+		<key>ResetLogoStatus</key>
+		<true/>
+		<key>SyncTableIds</key>
+		<false/>
 	</dict>
 	<key>Booter</key>
 	<dict>
